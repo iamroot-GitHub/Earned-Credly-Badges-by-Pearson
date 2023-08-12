@@ -1,4 +1,4 @@
-# Earned Credly Badges by Pearson
+# Earned Credly Badges by Pearson (Inspired by Austin44B)
 ## Table of Contents
 1.  [CompTIA Server+ Cert Prep]()
 2.  [CompTIA Linux+ Cert Prep]()
