@@ -12,7 +12,8 @@
  - [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
 ## CompTIA Linux+ Cert Prep
  - [NICE Framework Resource Center](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
-## CompTIA Cloud+ Cert Prep
+## CompTIA Cert Prep
+ - [Cloud+](https://github.com/iamroot-GitHub/Earned-CompTIA-Cloud-Plus-Cert-Prep-Credly-Badges#earned-comptia-cloud-cert-prep-credly-badges)
 ## CompTIA Network+ Cert Prep
 ## CompTIA Security+ Cert Prep
 ## CompTIA Pentest+ Cert Prep
