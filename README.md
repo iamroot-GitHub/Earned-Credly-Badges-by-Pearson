@@ -9,10 +9,10 @@
 7.  [Other]()
 ---
 ## CompTIA Cert Prep
- - [Server+](https://github.com/iamroot-GitHub/CompTIA-Server-Plus-Cert-Prep-Credly-Badges-Earned)
- - [Linux+](https://github.com/iamroot-GitHub/CompTIA-Linux-Plus-Cert-Prep-Credly-Badges-Earned)
- - [Cloud+](https://github.com/iamroot-GitHub/CompTIA-Cloud-Plus-Cert-Prep-Credly-Badges-Earned)
- - [Network+](https://github.com/iamroot-GitHub/CompTIA-Network-Plus-Cert-Prep-Credly-Badges-Earned)
- - [Security+](https://github.com/iamroot-GitHub/CompTIA-Security-Plus-Cert-Prep-Credly-Badges-Earned)
- - [Pentest+](https://github.com/iamroot-GitHub/CompTIA-Pentest-Plus-Cert-Prep-Credly-Badges-Earned)
- - [Other](https://github.com/iamroot-GitHub/Other-Credly-Badges-Earned)
+ - [Server+](https://github.com/iamroot-GitHub/CompTIA-Server-Plus-Cert-Prep-Credly-Badges-Earned#comptia-server-cert-prep-credly-badges-earned)
+ - [Linux+](https://github.com/iamroot-GitHub/CompTIA-Linux-Plus-Cert-Prep-Credly-Badges-Earned#comptia-linux-cert-prep-credly-badges-earned)
+ - [Cloud+](https://github.com/iamroot-GitHub/CompTIA-Cloud-Plus-Cert-Prep-Credly-Badges-Earned#comptia-cloud-cert-prep-credly-badges-earned)
+ - [Network+](https://github.com/iamroot-GitHub/CompTIA-Network-Plus-Cert-Prep-Credly-Badges-Earned#comptia-network-cert-prep-credly-badges-earned)
+ - [Security+](https://github.com/iamroot-GitHub/CompTIA-Security-Plus-Cert-Prep-Credly-Badges-Earned#comptia-security-cert-prep-credly-badges-earned)
+ - [Pentest+](https://github.com/iamroot-GitHub/CompTIA-Pentest-Plus-Cert-Prep-Credly-Badges-Earned#comptia-pentest-cert-prep-credly-badges-earned)
+ - [Other](https://github.com/iamroot-GitHub/Other-Credly-Badges-Earned#other-credly-badges-earned)
