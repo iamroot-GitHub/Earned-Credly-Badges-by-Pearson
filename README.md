@@ -8,7 +8,12 @@
 6.  [CompTIA Pentest+ Cert Prep]()
 7.  [Other]()
 ---
-## Cybersecurity & Infrastructure Security Agency (CISA)
+## CompTIA Server+ Cert Prep
  - [Cybersecurity & Infrastructure Security Agency (CISA)](https://www.cisa.gov/)
-## National Institute of Standards and Technology (NIST)
+## CompTIA Linux+ Cert Prep
  - [NICE Framework Resource Center](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
+## CompTIA Cloud+ Cert Prep
+## CompTIA Network+ Cert Prep
+## CompTIA Security+ Cert Prep
+## CompTIA Pentest+ Cert Prep
+## Other
