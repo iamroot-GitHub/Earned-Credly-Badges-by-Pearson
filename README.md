@@ -10,9 +10,9 @@
 ---
 ## CompTIA Cert Prep
  - [Server+](https://github.com/iamroot-GitHub/CompTIA-Server-Plus-Cert-Prep-Credly-Badges-Earned)
- - [Linux+]()
- - [Cloud+]()
- - [Network+]()
- - [Security+]()
- - [Pentest+]()
- - [Other]()
+ - [Linux+](https://github.com/iamroot-GitHub/CompTIA-Linux-Plus-Cert-Prep-Credly-Badges-Earned)
+ - [Cloud+](https://github.com/iamroot-GitHub/CompTIA-Cloud-Plus-Cert-Prep-Credly-Badges-Earned)
+ - [Network+](https://github.com/iamroot-GitHub/CompTIA-Network-Plus-Cert-Prep-Credly-Badges-Earned)
+ - [Security+](https://github.com/iamroot-GitHub/CompTIA-Security-Plus-Cert-Prep-Credly-Badges-Earned)
+ - [Pentest+](https://github.com/iamroot-GitHub/CompTIA-Pentest-Plus-Cert-Prep-Credly-Badges-Earned)
+ - [Other](https://github.com/iamroot-GitHub/Other-Credly-Badges-Earned)
