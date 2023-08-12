@@ -9,7 +9,7 @@
 7.  [Other]()
 ---
 ## CompTIA Cert Prep
- - [Server+]()
+ - [Server+](https://github.com/iamroot-GitHub/Earned-CompTIA-Server-Plus-Cert-Prep-Credly-Badges#earned-comptia-server-cert-prep-credly-badges)
  - [Linux+](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
  - [Cloud+](https://github.com/iamroot-GitHub/Earned-CompTIA-Cloud-Plus-Cert-Prep-Credly-Badges#earned-comptia-cloud-cert-prep-credly-badges)
  - [Network+]()
