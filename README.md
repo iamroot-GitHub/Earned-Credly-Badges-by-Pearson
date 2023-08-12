@@ -10,9 +10,9 @@
 ---
 ## CompTIA Cert Prep
  - [Server+](https://github.com/iamroot-GitHub/Earned-CompTIA-Server-Plus-Cert-Prep-Credly-Badges#earned-comptia-server-cert-prep-credly-badges)
- - [Linux+](https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center)
+ - [Linux+]([https://www.nist.gov/itl/applied-cybersecurity/nice/nice-framework-resource-center](https://github.com/iamroot-GitHub/Earned-CompTIA-Linux-Plus-Cert-Prep-Credly-Badges#earned-comptia-linux-cert-prep-credly-badges))
  - [Cloud+](https://github.com/iamroot-GitHub/Earned-CompTIA-Cloud-Plus-Cert-Prep-Credly-Badges#earned-comptia-cloud-cert-prep-credly-badges)
- - [Network+]()
- - [Security+]()
- - [Pentest+]()
+ - [Network+](https://github.com/iamroot-GitHub/Earned-CompTIA-Network-Plus-Cert-Prep-Credly-Badges#earned-comptia-network-cert-prep-credly-badges)
+ - [Security+](https://github.com/iamroot-GitHub/Earned-CompTIA-Security-Plus-Cert-Prep-Credly-Badges#earned-comptia-security-cert-prep-credly-badges)
+ - [Pentest+](https://github.com/iamroot-GitHub/Earned-CompTIA-Pentest-Plus-Cert-Prep-Credly-Badges#earned-comptia-pentest-cert-prep-credly-badges)
  - [Other]()
